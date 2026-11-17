@@ -6,6 +6,8 @@
 
 How does Chicago’s bikeshare network change from weekdays to weekends? This dashboard compares when and where rides start, using **3.83 million departures across 585 stations** in 2017. Select a station on either map to see its weekday and weekend averages and its hourly departure patterns.
 
+[![One City, Two Rhythms Tableau dashboard showing hourly Divvy departures and side-by-side weekday and weekend station maps](https://public.tableau.com/static/images/On/OneCityTwoRhythms/OneCityTwoRhythms/1.png)](https://public.tableau.com/app/profile/giang.bui7732/viz/OneCityTwoRhythms/OneCityTwoRhythms)
+
 ## What the data shows
 
 | Measure | Weekdays | Weekends |
